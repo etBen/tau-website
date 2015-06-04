@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Atelier Caféine 1ère édition le 26/11"
+date:   2012-11-14 14:18:14
+author: arnaud_sellenet
+categories: jekyll update
+---
+Je laisse la parole à Thomas pour présenter cette nouvelle initiative:
+
+> Un atelier est l’endroit où l’artisan apprend à améliorer son art par le toucher, la vue, le son et l’échange avec ses pairs. L’Atelier Caféine veut s’en inspirer et proposer discussions et échanges sur et autour des technologies qui font les métiers techniques du développement logiciel : méthodes, langages, moyens …
+> Pour son premier shot d’expresso l’Atelier Caféine vous propose de venir à Tau le 26 Novembre à partir de 19h pour deux petits talks de 20 minutes chacun, suivi de discussions autour des sujets exposés.
+
+Pour en savoir plus, le mieux est encore d'aller consulter [le billet sur le blog de l'atelier caféine][lk-cafeine].
+
+[lk-cafeine]: /assets/images/tau-daurade.jpg
+

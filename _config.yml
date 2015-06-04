@@ -1,0 +1,11 @@
+# Site settings
+title: Tau
+email: contact@tau.so
+description: Tau est un espace de Coworking toulousain situé en plein coeur de la ville rose.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: taucw
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

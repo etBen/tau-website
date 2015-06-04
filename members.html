@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Taunautes</h1>
+
+  <ul class="member-list">
+    {% for author in site.data.members %}
+      {% assign author = site.data.members %}
+        {% if author.status != "alumni" %}
+        <li>
+           <h2>{{ author.name }}
+                
+                {% if author.website %}
+                - <a class="link" href="{{ author.website }}">Site web</a>
+                {% endif %}
+           </h2>
+           
+        </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+
+<p>Ils sont passés par Tau... </p>
+
+ <ul class="alumni-list">
+    {% for author in site.data.members %}
+      {% assign author = site.data.members %}
+        {% if author.status == "alumni" %}
+        <li>
+           <h2>   
+                {% if author.website %}
+                <a class="link" href="{{ author.website }}">{{ author.name }}</a>
+                {% else %}
+                {{ author.name }}
+                {% endif %}
+           </h2>
+           
+        </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+</div>

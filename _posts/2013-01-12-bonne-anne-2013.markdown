@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Bonne année 2013 !"
+date:   2013-01-12 14:18:14
+author: arnaud_sellenet
+categories: jekyll update
+---
+Chers amis,
+
+Meilleurs voeux en cette année 2013 qui s’annonce riche en matière de coworking !
+
+![Les taunautes][img-team]
+
+Tau est maintenant bien installé au 18 Place de la Daurade et compte déjà 10 permanents ! Le 18 Décembre nous avons fini l’installation de l’espace principal : bar pour ceux qui aiment travailler debout ou en mode canapé, et 12 postes assis pour une position de travail plus conventionnelle.
+Vous êtes nombreux à nous contacter, il nous reste encore quelques places : ne perdez pas de temps et venez pour essayer ! En effet le mieux pour savoir si vous êtes un Taunaute dans l'âme c'est de venir et passer une journée à Tau. Cette journée de découverte vous êtes offerte.
+
+## Changement de formules
+Les formules ont evolué : pour mieux coller aux besoins du nouveau lieu les tarifs ont été révisés. La formule permanent est proposée à 120 euros (TVA 0%), le 6 packs (6 journées / 12 demi journées) à 60 euros (50 euros pour les adhérents). L’adhésion annuelle reste à 15 euros.
+Pour les permanents deux autres changements ont eu lieu :
+
+* Désormais la période d'essai mutuelle est d'un mois. Cette période à tout le monde de prendre ses marques, ou pas ;-) A l'issue de cette période si tout s'est bien passé le nouveau Taunaute recevra les clefs.
+* Afin de faciliter la gestion de la trésorerie et pour concrétiser l’engagement en tant que permanent, il est demandé à la remise des clés une provision d’un mois (120 euros). Ce montant vous sera restitué au moment du départ. Afin de gérer au mieux l’espace de coworking un préavis d’un mois vous est demandé.
+
+*\* Formule permanent en résumé : un bureau et un espace de rangement dédié, les clés de Tau, le café et thé a volonté, la bonne humeur partagée => la liberté ;-)*
+
+## Evènements
+Tau^2 est désormais à même d'accueillir de petits évènements en ses murs en dehors des horaires de travail. Si vous êtes catalyste ou à la tête d'un groupe technique ou d’autre n'hésitez pas à nous contacter.
+
+* L’assemblée générale de l’association s'est déroulé le 11 janvier à 18h. La majorité des adhérents y ont participé.
+* Le JellyWeek international aura lieu du 14 au 20 Janvier, Tau participera à l'évènement le 18 Janvier via des conférences en local ainsi qu'un direct avec Abidjan ! Rendez-vous à partir de 16h. [http://www.jellyweek.org/][lk-jelly]
+* L'Atelier Caféine renouvellera ses activités avec une soirée mini confs + discussions. [http://atelier-cafeine.fr/][lk-cafeine]
+
+## Off
+Tau n'est pas qu'un lieu de travail : régulièrement les Taunautes se retrouvent aussi pour souffler un peu autour de jeux de société ou vidéo, de quelques boissons diverses et variées.
+
+[img-team]: /assets/images/Tau_2013_nouvel_an.jpg
+
+[lk-jelly]: http://www.jellyweek.org/
+[lk-cafeine]: http://www.afriworkers.net/
+

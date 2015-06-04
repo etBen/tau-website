@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Semaine planétaire du Jelly en 2013"
+date:   2012-08-17 14:18:14
+author: arnaud_sellenet
+categories: jekyll update
+---
+Par un clair matin du début de l'hiver 2012, alors que nous ouvrions à peine nos portes en équipe réduite et pleine d'entrain, Thomas  ( [@mcansky][lk-mcansky] pour les twitimes ) nous fit découvrir le [Worldwide Jellyweek][lk-jelly].Très intimidés par cet événement d'envergure, alors que nous nous battions contre des moulins à vent pour essayer de faire naître la communauté du coworking toulousain, Tau n'a pas officiellement participé (bien que [tentés][lk-tentes]). L'édition 2013 on n'y manquera pas !
+
+## C'est quoi un Jelly ?
+Initiative lancée en 2006 à New York, le jelly part du même constat qui a fait naître les espaces de coworking : les technologies de l'information ont permis de dématérialiser le travail en entreprise, autrement dis de faire disparaître le travail au bureau. C'est avec grand bonheur que des millions d'informaticiens, journalistes, graphistes, ont pu goûter les joies de travailler en pyjama toute la journée. 
+
+L'enthousiasme tombe fite face à la traversée du désert social et la négligence de soi qu'entraînent ces pratiques aux faux airs de liberté. Vit alors le jour, le premier jelly. Le principe: on se retrouve dans un lieu, le plus adapté possible au travail (une table, des chaises, une connexion internet qui fonctionne), et on bosse. Voilà la base ! Le reste n'est que la conséquence de se retrouver tous ensemble avec des compétences connexes et plein de choses à échanger pendant les pauses.
+
+## Le Jellyweek 2013, et le summer Workcamp 2012
+![Worldwide Jelly week 2013 - 14 to 20 Jan 2013][img-jelly]
+
+Dans quelques jours, plusieurs coworkers en provenance de divers point du monde vont se retrouver ... dans la pampa à 150 km de toulouse, pour une semaine de réflexion qu'on souhaite aussi intense que possible pour penser les prochains Jellyweeks, mettre en place des outils et des méthodes pour maximiser l'impact de l'événement hivernal, et au-delà. Faites connaissance avec l'équipe sur le tumblr (Eh mais ouaiiiis y'a [un Taunaute][lk-taunaute] !). Au programme profiter du cadre pour se fondre la tête en 4 et préparer un Jellyweek 2013 qui va déboîter, c'est quand même un événement qui peut faire décoller la pratique du coworking, et faire prendre conscience de l'existence d'un mouvement global pour ceux qui ne l'ont pas encore touché du doigt, et donc: **rendre plein de travailleurs indépendants et/ou nomades heureux**.
+
+Le Wordwide Jellyweek c'est du 14 au 20 janvier 2013.
+
+Allez, promesse de blogueur, on vous tient au courant des évolutions de ce projet. Seconde promesse de blogueur, Tau vous prépare quelques nouvelles fraîches pas piquées des hanetons sur le prochain trimestre !
+
+[img-jelly]: /assets/images/jellyweek.jpg
+
+[lk-mcansky]: https://twitter.com/@mcansky
+[lk-jelly]: http://jellyweek.tumblr.com/
+[lk-tentes]: /assets/images/poster_jelly.png
+[lk-taunaute]: http://jellyweek.tumblr.com/post/26975005059/proudly-presented-jellyweek-crew-part-2-xaver

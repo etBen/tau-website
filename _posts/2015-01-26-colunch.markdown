@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Colunch lundi 2 février 2015"
+date:   2015-01-24 14:18:14
+author: arnaud_sellenet
+categories: jekyll update
+---
+Les premiers colunch initiés par l'espace de coworking Etincelle ont rencontré un franc succès, alors pour varier les plaisirs c'est au tour de Tau de vous inviter tous officiellement à un repas du midi dans notre espace !
+<!--break-->
+Ramenez votre gamelle, en mode auberge espagnole, un peu pour vous , un peu pour tout le monde et profitons de ce moment convivial, à la pause repas, pour faire connaissance ou discuter de nos expériences.
+
+Rendez-vous est donc donné lundi prochain 2 février. Pour vous inscrire (non obligatoire mais recommandé), c'est ici : [https://www.eventbrite.fr/e/billets-colunch-15499292802][lk-event]
+
+[lk-event]: https://www.eventbrite.fr/e/billets-colunch-15499292802

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "JellyWeek 2013"
+date:   2013-01-15 14:18:14
+author: arnaud_sellenet
+categories: jekyll update
+---
+A l'occasion du Worldwide Jellyweek 2013, un événement décentralisé qui .... pour mieux le comprendre rien ne vaut la visite du site officiel : [http://www.jellyweek.org/][lk-jelly]
+
+Pour l'occasion Tau propose un petit événement vendredi 18 janvier à partir de 18h, avec des présentations <!--break-->de projets en duplex d'Afrique, via Google Hangout on Air. Au programme :
+
+* Florent Youzan, fondateur d'[afriworkers][lk-afriworker]
+* Kate Berrisford, membre fondatrice du [Green Africa Directory][lk-afriworker]
+* Jean Pouly nous parlera des initiatives de coworking en milieur rural
+* Leslie Starr qui est à l'initiative de l'association Uploader, organisatrice de jellies dans le Sud de la France.
+* Et bien sûr l'association Tau, hébergeant l'événement, présentera son nouveau local et ce qu'elle compte en faire en cette nouvelle année.
+
+D'autres intervenants sont en attente de confirmation.
+
+Si vous souhaitez suivre l'événement sur internet retrouvez-nous à partir de vendredi 18h GMT+1 sur le canal Youtube de Tau, en live: [youtube.com/TauCoworkingToulouse][lk-youtube-tau]
+
+Les intervenants seront à votre écoute, sur twitter. Posez vos questions avec le hashtag [#jwat][lk-jwat]
+
+
+[lk-jelly]: http://www.jellyweek.org/
+[lk-afriworker]: http://www.afriworkers.net/
+[lk-green-africa-dir]: http://www.greenafricadirectory.org/
+[lk-youtube-tau]: http://www.youtube.com/TauCoworkingToulouse
+[lk-jwat]: https://twitter.com/#jwat

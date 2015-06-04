@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Tau accueille TedX Toulouse le 24 mai"
+date:   2014-05-15 14:18:14
+author: jeanne_delecluse
+categories: jekyll update
+---
+Salut à tous,
+
+Revoici la newsletter non-mensuelle !
+
+Quelles sont les nouvelles de votre espace de coworking préféré ?
+
+Hébé ça-bosse-ça-bosse : entre les semaines studieuses et concentrées, les travaux dans la grande salle avancent bien. Je dirais même plus, les travaux avancent bien et vous allez pouvoir en profiter, car nous nous sommes fixé une dead-line il y a quelques semaines (en se disant bien sûr que c'était loin) : le 24 mai, pour accueillir [TedX Toulouse][lk-tedx], en tant que lieu-relais.
+
+Ca veut dire quoi ? Ca veut dire qu'on vous accueille dans nos locaux gratuitement, pour suivre en direct-live [l'ensemble des conférences][lk-conf] par vidéoprojection, échanger autour d'un petit café, etc etc.
+
+Attention, les places sont limitées, les conférences promettent d'être riches, et il suffit d'un petit mail [ici][lk-mail] pour vous inscrire. Ensuite il faudra arriver au minimum 15mn avant le début des conférences (qui ont lieu de 14h à 19h).
+
+Une bonne occasion de venir nous (re)rencontrer, et visiter [notre lieu chaleureux][lk-lieu], qui attire de plus en plus de coworkers. Car oui, depuis quelque temps, les visites et les journées d'essai s'enchaînent et on est heureux de rencontrer de nouvelles têtes ! Il reste des places de permanent, serez-vous le prochain ?
+
+Et sinon, parenthèse Carnet Rose, un petit Taunaute vient de voir le jour (bienvenue à Ernest !), et un second est sur le point de pointer son nez !
+
+Bref, ça bouge, ça bouge...
+
+![tedx affiche][img-tedx1]
+![][img-tedx2]
+
+
+[lk-tedx]: http://tedxtoulouse.com/
+[lk-conf]: http://tedxtoulouse.com/intervenants-2014/
+[lk-mail]: %63%6f%6e%74%61%63%74%40%74%61%75%2e%73%6f
+[lk-lieu]: http://tau.so/
+
+[img-tedx1]: /assets/images/TedXToulouseLieuxRelaisTau2014.jpg
+[img-tedx2]: /assets/images/TedXToulouseLieuxRelaisTau2014_2.jpg
